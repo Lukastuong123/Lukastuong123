@@ -8,7 +8,7 @@
 
 🤔 I’m looking for help with getting placed as a Data Scientist/Machine Learning Engineer. 
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quoc-tuong-lukas-dong/r)  || [Medium](https://medium.com/@tuonggreenager). 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quoc-tuong-lukas-dong/r)  || [Medium](https://medium.com/@tuonggreenager) || [Leetcode](https://leetcode.com/lukastuong/)
 
 
 💻 Example projects:
