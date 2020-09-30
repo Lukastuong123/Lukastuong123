@@ -8,10 +8,14 @@
 
 
 💻 Example projects:
-
+   
+   -[Interactive Virtual Agents for questions related to COVID-19](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20NU%20COVID%20Hackathon)
+   
    -[Movie Recommendation with Spark](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Movie%20Recommendations%20(Spark%2C%20SQL%20with%20Python)) 
    
    -[Annual Income Predictions](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Finding%20Annual%20Income%20(Python-%20Classification)) 
+      
+   -[Microsoft Malware Prediction](https://github.com/Lukastuong123/R-Projects/tree/master/Project-%20Microsoft%20Malware%20Prediction)
    
    -[Aibnb Analysis](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Airbnb%20(Python-%20Interactive%20Map%2C%20Natural%20Language%20Processing%2C%20Comparative%20Study%2C%20Regression))
 
