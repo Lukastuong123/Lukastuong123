@@ -9,7 +9,7 @@
 
 💻 Example projects:
    
-   -[Interactive Virtual Agents for questions related to COVID-19](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20NU%20COVID%20Hackathon)
+   -[1st winner Hackathon- Interactive Virtual Agents for questions related to COVID-19](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20NU%20COVID%20Hackathon)
    
    -[Movie Recommendation with Spark](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Movie%20Recommendations%20(Spark%2C%20SQL%20with%20Python)) 
    
