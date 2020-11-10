@@ -21,8 +21,6 @@
 
  
 
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-   -[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@tuonggreenager)
+ [https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@tuonggreenager)
 
