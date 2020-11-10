@@ -22,4 +22,4 @@
  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quoc-tuong-lukas-dong/)
 &nbsp;
-[!https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@tuonggreenager)
+[https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white](https://medium.com/@tuonggreenager)
