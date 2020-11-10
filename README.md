@@ -19,17 +19,6 @@
    
    -[Aibnb Analysis](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Airbnb%20(Python-%20Interactive%20Map%2C%20Natural%20Language%20Processing%2C%20Comparative%20Study%2C%20Regression))
 
- 
-
-Hope this was helpful!!
-
-[1]: http://www.github.com/nomi811
-[2]: https://public.tableau.com/profile/tuong.lukas#!/
-[3]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
-
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![](./pics/blob/main/tableau_logo.png =100x20)][2]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
 
 
