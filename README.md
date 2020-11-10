@@ -20,6 +20,6 @@
    -[Aibnb Analysis](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Airbnb%20(Python-%20Interactive%20Map%2C%20Natural%20Language%20Processing%2C%20Comparative%20Study%2C%20Regression))
 
  
-[1]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
+[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [2]: https://www.linkedin.com/in/your_contact_info
 [3]: https://www.facebook.com/your_contact_info
