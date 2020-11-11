@@ -38,8 +38,8 @@
 [<img align="left" alt="Spark" width="80px" src="https://github.com/Lukastuong123/pics/blob/main/Apache_Spark_logo.svg.png" />]
 [<img align="left" alt="PowerBI" width="100px" src="https://github.com/Lukastuong123/pics/blob/main/power-bi_logo.png" />]
 [<img align="left" alt="Tableau" width="100px" src="https://github.com/Lukastuong123/pics/blob/main/tableau_logo.png" />]
-[<img align="left" alt="AdobeAnalytics" width="110px" src="https://github.com/Lukastuong123/pics/blob/main/adobeanalytics.png" />]
-[<img align="left" alt="GIS" width="110px" src="https://github.com/Lukastuong123/pics/blob/main/10-24-Esri.gif" />]
+[<img align="left" alt="AdobeAnalytics" width="100px" src="https://github.com/Lukastuong123/pics/blob/main/adobeanalytics.png" />]
+[<img align="left" alt="GIS" width="90px" src="https://github.com/Lukastuong123/pics/blob/main/10-24-Esri.gif" />]
 
 
 <br />
