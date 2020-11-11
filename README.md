@@ -35,19 +35,17 @@
 [<img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />]
 [<img align="left" alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" />]
 [<img align="left" alt="Tableau" width="100px" src="https://github.com/Lukastuong123/pics/blob/main/tableau_logo.png" />]
+[<img align="left" alt="GIS" width="100px" src="https://github.com/Lukastuong123/pics/blob/main/502014.jpg" />]
+[<img align="left" alt="Spark" width="100px" src="https://github.com/Lukastuong123/pics/blob/main/Apache_Spark_logo.svg.png" />]
+[<img align="left" alt="PowerBI" width="100px" src="https://github.com/Lukastuong123/pics/blob/main/power-bi_logo.png" />]
+[<img align="left" alt="VBA" width="100px" src="https://github.com/Lukastuong123/pics/blob/main/do-best-excel-vba-macro.jpg" />]
+[<img align="left" alt="AdobeAnalytics" width="100px" src="https://github.com/Lukastuong123/pics/blob/main/adobeanalytics.png" />]
+
 
 <br />
 <br />
 
 ---
-
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
