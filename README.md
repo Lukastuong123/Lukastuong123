@@ -34,9 +34,7 @@
 [<img align="left" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />][mongodb]
 [<img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />][aws]
 [<img align="left" alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" />][azure]
-
-
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="Tableau" width="26px" src="https://github.com/Lukastuong123/pics/blob/main/tableau_logo.png" />][Ttableau]
 
 <br />
 <br />
