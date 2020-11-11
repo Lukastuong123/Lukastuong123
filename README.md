@@ -28,7 +28,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python"  src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />]
+<img align="left" alt="Python"  src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 [<img align="left" alt="R"  src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />]
 [<img align="left" alt="MySQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />]
 [<img align="left" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />]
