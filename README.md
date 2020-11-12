@@ -1,5 +1,5 @@
 # Budding Data Scientist who lately doesn't rest, he mines⛏️
-## B2B Sales Data Analyst- Kaspersky|| Contributing Writer- Towards Data Science  
+## B2B Sales Data Analyst- Kaspersky|| Contributing Writer- Towards Data Science|| Member - NEU's DATA Club  
 🔭 I’m currently working on projects which majorly focus on Data Science.
 
 🌱 I’m currently pursuing Deep Learning (Computer Vision and Natural Languages Processing). 
