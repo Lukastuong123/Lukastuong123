@@ -38,8 +38,6 @@
 <br />
 <br />
 
----
-
 </details>
 
 [medium]: https://medium.com/@tuonggreenager
