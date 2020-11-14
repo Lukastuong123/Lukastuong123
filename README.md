@@ -39,7 +39,7 @@
 [<img align="left"  src="https://img.shields.io/badge/Adobe_Analytics-%23CC342D.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/Azure-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/Amazon_AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>]
-[<img align="left"  src="https://img.shields.io/badge/Esri-%2320232a.svg?&style=for-the-badge&logo=webmoney&logoColor=%2361DAFB"/>]
+[<img align="left"  src="https://img.shields.io/badge/Esri-%2339457E.svg?&style=for-the-badge&logo=webmoney&logoColor=%2361DAFB"/>]
 
 
 
