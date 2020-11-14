@@ -34,6 +34,7 @@
 [<img align="left"  src="https://img.shields.io/badge/Spark-D83B01.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/PowerBI-%23F7DF1E.svg?&style=for-the-badge&logo=power-bi&logoColor=black"/>]
 [<img align="left"  src="https://img.shields.io/badge/Tableau-1793D1?&style=for-the-badge&logo=tableau&logoColor=white"/>]
+[<img align="left"  src="https://img.shields.io/badge/Tableau-1793D1?&style=for-the-badge&logo="file:///C:/Users/HP/Downloads/hadoop.svg"&logoColor=white"/>]
 
 
 <br />
