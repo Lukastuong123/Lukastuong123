@@ -31,6 +31,7 @@
 [<img align="left"  src="https://img.shields.io/badge/R-%233776AB.svg?&style=for-the-badge&logo=r&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/MySQL-%234285F4?&style=for-the-badge&logo=mysql&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/VBA-%117864.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>]
+[<img align="left"  src="https://img.shields.io/badge/Spark-%#E67E22.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>]
 
 
 <br />
