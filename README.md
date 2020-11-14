@@ -33,6 +33,8 @@
 [<img align="left"  src="https://img.shields.io/badge/VBA-217346?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/Spark-D83B01.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/PowerBI-%23F7DF1E.svg?&style=for-the-badge&logo=power-bi&logoColor=black"/>]
+[<img align="left"  src="https://img.shields.io/badge/PowerBI-%23F7DF1E.svg?&style=for-the-badge&logo=power-bi&logoColor=white"/>]
+[<img align="left"  src="https://simpleicons.org/icons/powerbi.svg"/>]
 
 
 <br />
