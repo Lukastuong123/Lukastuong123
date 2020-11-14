@@ -24,6 +24,13 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
+### Technical skills
+[<img align="left" alt="codeSTACKr.com"  src="https://img.shields.io/badge/Python-%231877F2.svg?&style=for-the-badge&logo=python&logoColor=white"/>]
+[<img align="left" alt="codeSTACKr.com"  src="https://img.shields.io/badge/R-%231877F2.svg?&style=for-the-badge&logo=r&logoColor=white"/>]
+[<img align="left" alt="codeSTACKr.com"  src="https://img.shields.io/badge/MySQL-%231877F2.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>]
+
+
+
 <br />
 <br />
 
@@ -36,5 +43,4 @@
 [linkedin]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 
 
-### Technical skills
-[<img align="left" alt="codeSTACKr.com"  src="https://img.shields.io/badge/Python-%231877F2.svg?&style=for-the-badge&logo=python&logoColor=white"/>]
+
