@@ -25,12 +25,14 @@
 [<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br />
+
 ### Technical skills
 [<img align="left" alt="codeSTACKr.com"  src="https://img.shields.io/badge/Python-%231877F2.svg?&style=for-the-badge&logo=python&logoColor=white"/>]
 [<img align="left" alt="codeSTACKr.com"  src="https://img.shields.io/badge/R-%231877F2.svg?&style=for-the-badge&logo=r&logoColor=white"/>]
 [<img align="left" alt="codeSTACKr.com"  src="https://img.shields.io/badge/MySQL-%231877F2.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>]
 
-
+<br />
+<br />
 
 ---
 
