@@ -37,5 +37,5 @@
 
 
 ### Technical skills
-[<img align="left" alt="codeSTACKr.com"  src="https://img.shields.io/badge/Python-%231877F2.svg?&style=for-the-badge&logo=python&logoColor=white"/>][Python]
+[<img align="left" alt="codeSTACKr.com| " src="https://img.shields.io/badge/Python-%231877F2.svg?&style=for-the-badge&logo=python&logoColor=white"/>]
 
