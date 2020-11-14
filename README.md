@@ -33,9 +33,6 @@
 [<img align="left"  src="https://img.shields.io/badge/VBA-217346?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/Spark-D83B01.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>]
 
-
-
-<br />
 <br />
 
 </details>
