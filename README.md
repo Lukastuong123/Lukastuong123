@@ -35,3 +35,6 @@
 [instagram]: https://www.instagram.com/greenager/
 [linkedin]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 
+
+### Technical skills
+https://img.shields.io/badge/Python-%231877F2.svg?&style=for-the-badge&logo=python&logoColor=white
