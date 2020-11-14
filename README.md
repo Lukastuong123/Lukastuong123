@@ -27,10 +27,10 @@
 <br />
 
 ### Technical skills
-[<img align="left"  src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>]
+[<img align="left"  src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/R-%233776AB.svg?&style=for-the-badge&logo=r&logoColor=white"/>]
-[<img align="left"  src="https://img.shields.io/badge/MySQL-%233776AB.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>]
-[<img align="left"  src="https://img.shields.io/badge/VBA-%233776AB.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>]
+[<img align="left"  src="https://img.shields.io/badge/MySQL-%234285F4?&style=for-the-badge&logo=mysql&logoColor=white"/>]
+[<img align="left"  src="https://img.shields.io/badge/VBA-%217346.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>]
 
 
 <br />
