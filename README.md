@@ -27,8 +27,8 @@
 <br />
 
 ### Technical skills
-[<img align="left"   src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][Python]
-[<img align="left"  src="https://img.shields.io/badge/R-%233776AB.svg?&style=for-the-badge&logo=r&logoColor=white"/>]
+[<img align="left"   src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
+[<img align="left"  src="https://img.shields.io/badge/R-%233776AB.svg?&style=for-the-badge&logo=r&logoColor=white"/>][r]
 [<img align="left"  src="https://img.shields.io/badge/MySQL-%234285F4?&style=for-the-badge&logo=mysql&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/VBA-217346?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/Hadoop-%23ED8B00.svg?&style=for-the-badge&logo=apache&logoColor=white"/>]
@@ -50,7 +50,7 @@
 [medium]: https://medium.com/@tuonggreenager
 [instagram]: https://www.instagram.com/greenager/
 [linkedin]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
-[Python]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
+[python]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 
 
 
