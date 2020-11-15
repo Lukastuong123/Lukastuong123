@@ -29,8 +29,8 @@
 ### Technical skills
 [<img align="left"   src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
 [<img align="left"  src="https://img.shields.io/badge/R-%233776AB.svg?&style=for-the-badge&logo=r&logoColor=white"/>][r]
-[<img align="left"  src="https://img.shields.io/badge/MySQL-%234285F4?&style=for-the-badge&logo=mysql&logoColor=white"/>]
-[<img align="left"  src="https://img.shields.io/badge/VBA-217346?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>]
+[<img align="left"  src="https://img.shields.io/badge/MySQL-%234285F4?&style=for-the-badge&logo=mysql&logoColor=white"/>][sql]
+[<img align="left"  src="https://img.shields.io/badge/VBA-217346?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>][vba]
 [<img align="left"  src="https://img.shields.io/badge/Hadoop-%23ED8B00.svg?&style=for-the-badge&logo=apache&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/Spark-D83B01.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>]
 [<img align="left"  src="https://img.shields.io/badge/Power_BI-%23F7DF1E.svg?&style=for-the-badge&logo=power-bi&logoColor=black"/>]
@@ -51,6 +51,9 @@
 [instagram]: https://www.instagram.com/greenager/
 [linkedin]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [python]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
+[r]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
+[vba]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
+[sql]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 
 
 
