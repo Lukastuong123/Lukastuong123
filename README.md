@@ -8,7 +8,7 @@
    
    -[1st winner Hackathon- Interactive Virtual Agents for questions related to COVID-19](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20NU%20COVID%20Hackathon)
    
-   -[Movie Recommendation with Spark](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Movie%20Recommendations%20(Spark%2C%20SQL%20with%20Python)) 
+   -[Movie Recommendation & Ratings with Spark, SQL, Deep Learning](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20Movie%20Recommendations%20%26%20Rating%20System%20(Spark%2C%20SQL%20-%20Python))) 
    
    -[Annual Income Predictions](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Finding%20Annual%20Income%20(Python-%20Classification)) 
       
