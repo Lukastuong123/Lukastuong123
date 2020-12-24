@@ -8,13 +8,13 @@
    
    -[1st winner Hackathon- Interactive Virtual Agents for questions related to COVID19](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20NU%20COVID%20Hackathon)
    
-   -[Movie Recommendation & Ratings- Spark, SQL, Deep Learning](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20Movie%20Recommendations%20%26%20Rating%20System%20(Spark%2C%20SQL%20-%20Python)) 
+   -[Movie Recommendation & Ratings (Spark, SQL, Deep Learning)](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20Movie%20Recommendations%20%26%20Rating%20System%20(Spark%2C%20SQL%20-%20Python)) 
    
-   -[Annual Income Predictions- Python](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Finding%20Annual%20Income%20(Python-%20Classification)) 
+   -[Annual Income Predictions (Python)](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Finding%20Annual%20Income%20(Python-%20Classification)) 
       
-   -[Microsoft Malware Prediction- R](https://github.com/Lukastuong123/R-Projects/tree/master/Project-%20Microsoft%20Malware%20Prediction)
+   -[Microsoft Malware Prediction (R)](https://github.com/Lukastuong123/R-Projects/tree/master/Project-%20Microsoft%20Malware%20Prediction)
  
-   -[Aibnb Analysis- Python](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Airbnb%20(Python-%20Interactive%20Map%2C%20Natural%20Language%20Processing%2C%20Comparative%20Study%2C%20Regression))
+   -[Seattle vs Boston Aibnb Analysis- (Python)](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Airbnb%20(Python-%20Interactive%20Map%2C%20Natural%20Language%20Processing%2C%20Comparative%20Study%2C%20Regression))
 
 
 
