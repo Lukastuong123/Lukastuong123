@@ -14,7 +14,7 @@
       
    -[Microsoft Malware Prediction (R)](https://github.com/Lukastuong123/R-Projects/tree/master/Project-%20Microsoft%20Malware%20Prediction)
  
-   -[Seattle vs Boston Aibnb Analysis- (Python)](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Airbnb%20(Python-%20Interactive%20Map%2C%20Natural%20Language%20Processing%2C%20Comparative%20Study%2C%20Regression))
+   -[Seattle vs Washington DC Aibnb Analysis- (Python)](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20Airbnb%20(Python-%20Interactive%20Map%2C%20Natural%20Language%20Processing%2C%20Comparative%20Study%2C%20Regression))
 
 
 
