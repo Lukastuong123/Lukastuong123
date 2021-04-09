@@ -9,11 +9,10 @@
    -[United Nations' NLP Crisis Informatics (Python, NLP)](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20United%20Nations'%20NLP%20Crisis%20Informatics%20(Python,%20NLP))
 
    -[Ads Optimization with Facial emotion  recognition (Python, Computer Vision) ](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20Ads%20Optimization%20with%20Facial%20emotion%20recognition)
-
-   -[US Election 2020 Twitter Sentiment Analysis (Python, NLP) ](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20US%20Election%202020%20Twitter%20Sentiment%20Analysis)
- 
+   
    -[Investing in pre-IPO Unicorn Startups](https://github.com/Lukastuong123/Python/tree/master/Project-%20Investing%20in%20pre-IPO%20Unicorn%20Startups%20(sponsored%20by%20Alicorn%20Venture%20Capitals))
 
+   -[US Election 2020 Twitter Sentiment Analysis (Python, NLP) ](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20US%20Election%202020%20Twitter%20Sentiment%20Analysis)
 
    -[1st winner Hackathon- Interactive Virtual Agents for questions related to COVID19](https://github.com/Lukastuong123/Python-Projects/tree/master/Project-%20NU%20COVID%20Hackathon)
    
