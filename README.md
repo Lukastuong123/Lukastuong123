@@ -48,7 +48,7 @@
 [<img align="left"  src="https://img.shields.io/badge/Adobe_Analytics-%23CC342D.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>][adobe]
 [<img align="left"  src="https://img.shields.io/badge/Azure-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white"/>][azure]
 [<img align="left"  src="https://img.shields.io/badge/Amazon_AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>][aws]
-[<img align="left"  src="https://img.shields.io/badge/Esri%20-%2320232a.svg?&style=for-the-badge&logo=webmoney&logoColor=white"/>][esri]
+[<img align="left"  src="https://img.shields.io/badge/QGIS%20-%2320232a.svg?&style=for-the-badge&logo=webmoney&logoColor=white"/>][esri]
 
 
 
