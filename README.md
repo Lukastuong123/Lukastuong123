@@ -1,10 +1,10 @@
 # Budding Data Scientist who lately doesn't rest, he mines⛏️
-## B2B Sales Data Analyst- Kaspersky|| Contributing Writer- Towards Data Science|| Member - NEU's DATA Club  
+## Part Time Data Science Researcher - Capgemini || B2B Sales Data Analyst- Kaspersky|| Contributing Writer- Towards Data Science 
 🔭 Working on projects which majorly focus on Data Science.
 
-🌱 Interested in Deep Learning (Computer Vision and Natural Languages Processing). 
+🌱 Interested in Deep Learning (Computer Vision and Natural Languages Processing). [CV](https://www.linkedin.com/in/quoc-tuong-lukas-dong/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABglRnYBU8sv2MzLhK8HuxIBKHnEPvoy1bI,1635455430463)/) 
 
-💻    -[CV](https://www.linkedin.com/in/quoc-tuong-lukas-dong/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABglRnYBU8sv2MzLhK8HuxIBKHnEPvoy1bI,1635455430463)/) and Example projects:
+💻    -Example projects:
    
    -[United Nations' NLP Crisis Informatics (Python, NLP)](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20United%20Nations'%20NLP%20Crisis%20Informatics%20(Python,%20NLP))
 
