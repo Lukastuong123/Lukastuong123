@@ -1,6 +1,5 @@
 # Budding Data Scientist who lately doesn't rest, he mines⛏️
 ## Data Scientist - Capgemini || B2B Sales Data Analyst- Kaspersky|| Contributing Writer- Towards Data Science 
-🔭 Working on projects which majorly focus on Data Science.
 
 🌱 [CV](https://www.linkedin.com/in/quoc-tuong-lukas-dong/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABglRnYBU8sv2MzLhK8HuxIBKHnEPvoy1bI,1635460642494)/) , He is interested in Deep Learning (Computer Vision and Natural Languages Processing).  
 
@@ -50,6 +49,8 @@
 [<img align="left"  src="https://img.shields.io/badge/Amazon_AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>][aws]
 [<img align="left"  src="https://img.shields.io/badge/QGIS%20-%2320232a.svg?&style=for-the-badge&logo=webmoney&logoColor=white"/>][esri]
 [<img align="left"  src="https://img.shields.io/badge/ARCGIS%20-%2320232a.svg?&style=for-the-badge&logo=webmoney&logoColor=white"/>][esri]
+[<img align="left"  src="https://img.shields.io/badge/Snowflake-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>][snowflake]
+
 
 
 
@@ -72,6 +73,7 @@
 [azure]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [aws]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [esri]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
+[snowflake]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 
 
 
