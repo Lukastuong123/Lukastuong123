@@ -1,5 +1,5 @@
 # Budding Data Scientist who lately doesn't rest, he mines⛏️
-## Part Time Data Science Researcher - Capgemini || B2B Sales Data Analyst- Kaspersky|| Contributing Writer- Towards Data Science 
+## Data Scientist - Capgemini || B2B Sales Data Analyst- Kaspersky|| Contributing Writer- Towards Data Science 
 🔭 Working on projects which majorly focus on Data Science.
 
 🌱 [CV](https://www.linkedin.com/in/quoc-tuong-lukas-dong/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABglRnYBU8sv2MzLhK8HuxIBKHnEPvoy1bI,1635460642494)/) , He is interested in Deep Learning (Computer Vision and Natural Languages Processing).  
