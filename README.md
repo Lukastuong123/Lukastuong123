@@ -49,7 +49,7 @@
 [<img align="left"  src="https://img.shields.io/badge/Amazon_AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>][aws]
 [<img align="left"  src="https://img.shields.io/badge/QGIS%20-%2320232a.svg?&style=for-the-badge&logo=webmoney&logoColor=white"/>][esri]
 [<img align="left"  src="https://img.shields.io/badge/ARCGIS%20-%2320232a.svg?&style=for-the-badge&logo=webmoney&logoColor=white"/>][esri]
-[<img align="left"  src="https://img.shields.io/badge/Snowflake-%56B9EB.svg?style=for-the-badge&logo=xamarin&logoColor=white"/>][snowflake]
+[<img align="left"  src="https://img.shields.io/badge/Snowflake-56B9EB.svg?style=for-the-badge&logo=xamarin&logoColor=white"/>][snowflake]
 
 
 
