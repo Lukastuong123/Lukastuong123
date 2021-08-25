@@ -52,6 +52,7 @@
 <br />
 <br />
 [<img align="left"  src="https://img.shields.io/badge/ARCGIS%20-%2320232a.svg?&style=for-the-badge&logo=webmoney&logoColor=white"/>][esri]
+[<img align="left"  src="https://img.shields.io/badge/ORACLE%20-%F80000.svg?&style=for-the-badge&logo=webmoney&logoColor=white"/>][orclae]
 
 
 
@@ -76,6 +77,6 @@
 [aws]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [esri]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [snowflake]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
-
+[oracle]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 
 
