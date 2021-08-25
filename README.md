@@ -45,10 +45,10 @@
 <br />
 <br />
 [<img align="left"  src="https://img.shields.io/badge/MySQL-%234285F4?&style=for-the-badge&logo=mysql&logoColor=white"/>][sql]
-[<img align="left"  src="https://img.shields.io/badge/Snowflake-56B9EB.svg?style=for-the-badge&logo=snowflake&logoColor=white"/>][snowflake]
-[<img align="left"  src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>][oracle]
 [<img align="left"  src="https://img.shields.io/badge/Hadoop-%23ED8B00.svg?&style=for-the-badge&logo=apache&logoColor=white"/>][hadoop]
 [<img align="left"  src="https://img.shields.io/badge/Spark-D83B01.svg?&style=for-the-badge&logo=apache-spark&logoColor=white"/>][spark]
+[<img align="left"  src="https://img.shields.io/badge/Snowflake-56B9EB.svg?style=for-the-badge&logo=snowflake&logoColor=white"/>][snowflake]
+[<img align="left"  src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>][oracle]
 <br />
 <br />
 [<img align="left"  src="https://img.shields.io/badge/Azure-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white"/>][azure]
