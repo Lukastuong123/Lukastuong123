@@ -1,7 +1,7 @@
 # Data Scientist who lately doesn't rest, he mines⛏️
 ## Data Scientist - Capgemini || Contributing Writer- Towards Data Science 
 
-🌱 [CV](https://www.linkedin.com/in/quoc-tuong-lukas-dong/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABglRnYBU8sv2MzLhK8HuxIBKHnEPvoy1bI,1635460642494)/) , He is interested in Deep Learning (Computer Vision and Natural Languages Processing).  
+🌱 [CV](https://www.linkedin.com/in/quoc-tuong-lukas-dong/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABglRnYBU8sv2MzLhK8HuxIBKHnEPvoy1bI,1635460642494)/) , He is interested in Deep Learning (Natural Languages Processing).  
 
 💻    -Example projects:
    
@@ -29,7 +29,6 @@
 
 [<img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>][medium]
 [<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br />
 
