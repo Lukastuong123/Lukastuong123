@@ -6,8 +6,9 @@
 💻    -Example projects:
 
 
-    -[NLP projects with Streamlit)](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20NLP%20with%20Streamlit)
-      
+    
+         -[NLP projects with Streamlit](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20NLP%20with%20Streamlit)
+
    -[United Nations' NLP Crisis Informatics (Python, NLP)](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20United%20Nations'%20NLP%20Crisis%20Informatics%20(Python,%20NLP))
 
    -[Ads Optimization with Facial emotion  recognition (Python, Computer Vision) ](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20Ads%20Optimization%20with%20Facial%20emotion%20recognition)
