@@ -4,7 +4,10 @@
 🌱 [CV](https://www.linkedin.com/in/quoc-tuong-lukas-dong/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABglRnYBU8sv2MzLhK8HuxIBKHnEPvoy1bI,1635460642494)/) , He is interested in Deep Learning (Natural Languages Processing).  
 
 💻    -Example projects:
-   
+
+
+    -[NLP projects with Streamlit)](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20NLP%20with%20Streamlit)
+      
    -[United Nations' NLP Crisis Informatics (Python, NLP)](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20United%20Nations'%20NLP%20Crisis%20Informatics%20(Python,%20NLP))
 
    -[Ads Optimization with Facial emotion  recognition (Python, Computer Vision) ](https://github.com/Lukastuong123/DeepLearing/tree/master/Project-%20Ads%20Optimization%20with%20Facial%20emotion%20recognition)
