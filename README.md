@@ -45,7 +45,7 @@
 [<img align="left"  src="https://img.shields.io/badge/Power_BI-%23F7DF1E.svg?&style=for-the-badge&logo=power-bi&logoColor=black"/>][powerbi]
 [<img align="left"  src="https://img.shields.io/badge/Tableau-1793D1?&style=for-the-badge&logo=tableau&logoColor=white"/>][tableau]
 [<img align="left"  src="https://img.shields.io/badge/Adobe_Analytics-%23CC342D.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>][adobe]
-[<img align="left"  src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>][]
+[<img align="left"  src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>][r]
 <br />
 <br />
 [<img align="left"  src="https://img.shields.io/badge/MySQL-%234285F4?&style=for-the-badge&logo=mysql&logoColor=white"/>][sql]
