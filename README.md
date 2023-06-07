@@ -1,7 +1,14 @@
 # Data Scientist who lately doesn't rest, he mines⛏️
-## Senionr Data Scientist - Capgemini || Contributing Writer- Towards Data Science 
+## Senior Data Scientist - Capgemini || Contributing Writer- Towards Data Science 
 
-🌱   is interested in Deep Learning (Natural Languages Processing).  
+🌱 Lukas has nearly 4 years of expereince in Data Science, Data Enginnering Generative AI, ChatGPT, NLP, and Deeplearning. He has spearheaded several projects to deliver data-driven insights to organizations & businesses. He excells at creating regression models, using descriptive and predictive data modeling to implement action-oriented solutions to business problems. Having been to 25 countries and territories for academic and professional purposes , He is flexible to work with people regardless backgrounds and cultures.
+
+At Capgemini, I have worked as: 
+- Senior Data Engineer- Meta/Facebook
+- Senior Data Scientist- Virgin Voyage
+- Senior Data Scientist- Cisco
+- Data Engineer Analytics - NBC Universal
+
 
 💻    -Example projects:
 
