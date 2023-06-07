@@ -40,6 +40,8 @@
 [<img align="left"   src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
 [<img align="left"  src="https://img.shields.io/badge/R-%233776AB.svg?&style=for-the-badge&logo=r&logoColor=white"/>][r]
 [<img align="left"  src="https://img.shields.io/badge/VBA-217346?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>][vba]
+[<img align="left"  src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>][scala]
+[<img align="left"  src="https://img.shields.io/badge/ChatGPT-412991?&style=for-the-badge&logo=microsoft-office&logoColor=white"/>][chatgpt]
 <br />
 <br />
 [<img align="left"  src="https://img.shields.io/badge/Power_BI-%23F7DF1E.svg?&style=for-the-badge&logo=power-bi&logoColor=black"/>][powerbi]
@@ -77,6 +79,8 @@
 [python]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [r]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [vba]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
+[scala]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
+[chatgpt]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [sql]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [hadoop]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [spark]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
