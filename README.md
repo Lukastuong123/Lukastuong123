@@ -1,7 +1,7 @@
 # Data Scientist who lately doesn't rest, he mines⛏️
-## Data Scientist - Capgemini || Contributing Writer- Towards Data Science 
+## Senionr Data Scientist - Capgemini || Contributing Writer- Towards Data Science 
 
-🌱 [CV](https://www.linkedin.com/in/quoc-tuong-lukas-dong/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABglRnYBU8sv2MzLhK8HuxIBKHnEPvoy1bI,1635460642494)/) , He is interested in Deep Learning (Natural Languages Processing).  
+🌱   is interested in Deep Learning (Natural Languages Processing).  
 
 💻    -Example projects:
 
@@ -59,6 +59,7 @@
 <br />
 [<img align="left"  src="https://img.shields.io/badge/Azure-0089D6?&style=for-the-badge&logo=microsoft-azure&logoColor=white"/>][azure]
 [<img align="left"  src="https://img.shields.io/badge/Amazon_AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>][aws]
+[<img align="left"  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>][googlecloud]
 [<img align="left"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>][docker]
 <br />
 <br />
@@ -90,6 +91,7 @@
 [azure]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [aws]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [esri]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
+[googlecloud]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [snowflake]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [oracle]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
 [docker]: https://www.linkedin.com/in/quoc-tuong-lukas-dong/
