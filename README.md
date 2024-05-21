@@ -1,14 +1,18 @@
 # Data Scientist who lately doesn't rest, he mines⛏️
 ## Senior Data Scientist - Capgemini || Contributing Writer- Towards Data Science 
 
-🌱 Lukas has nearly 4 years of expereince in Data Science, Data Enginnering Generative AI, ChatGPT, NLP, and Deeplearning. He has spearheaded several projects to deliver data-driven insights to organizations & businesses. He excells at creating regression models, using descriptive and predictive data modeling to implement action-oriented solutions to business problems. Having been to 25 countries and territories for academic and professional purposes , He is flexible to work with people regardless backgrounds and cultures.
+🌱 A data scientist and senior consultant. I have spearheaded several projects across different disciplines of data science & machine learning to deliver data-driven insights to organizations & businesses. I am experienced at creating regression models, using descriptive and predictive data modeling to implement action-oriented solutions to business problems. Having been to 25 countries and territories for academic and professional purposes, I am flexible to work with people regardless backgrounds and cultures.
 
-[comment]: <> (At Capgemini, he has worked as: )
-[comment]: <> (- Senior Data Engineer- Meta/Facebook)
-[comment]: <> (- Senior Data Scientist- Virgin Voyage)
-[comment]: <> (- Senior Data Scientist- Cisco)
-[comment]: <> (- Data Engineer Analytics - NBC Universal)
+At Capgemini, I have worked as: 
+- Senior Data Engineer- Meta/Facebook
+- Senior Data Scientist Generative AI- Cox
+- Senior Data Scientist- Cisco
+- Data Engineer Analytics - NBC Universal
 
+
+•Tools: Python, R Studio, SQL, MySQL, Visual Basic for Applications (VBA) , Apache Spark, Hadoop, PowerBI, Tableau, Adobe Analytics, Anaconda, Azure, Amazon Web Services (AWS), ArcGIS by Esri, Flask, Docker.
+•Library / Packages: R (ggplot2, Caret, Tidy verse, dplyr), Python (Pandas, NumPy, Matplotlib, Scikit-Learn, Tensorflow, PyTorch).
+•Technical Skills: Data Mining & Visualization, Statistical Inference, Big Data Analytics, Regression, Classification, Clustering, Deep Learning, Monte Carlo, Gradient Boosting, T-Testing & ANOVA, Process Mapping, Project Management, Root Cause Analysis.
 
 💻    -Example projects:
 
