@@ -1,6 +1,6 @@
 # Senior Data Scientist - Capgemini || Contributing Writer- Towards Data Science 
 
-🌱 A data scientist and senior consultant. I have spearheaded several projects across different disciplines of data science & machine learning to deliver data-driven insights to organizations & businesses. I am experienced at creating regression models, using descriptive and predictive data modeling to implement action-oriented solutions to business problems. Having been to 25 countries and territories for academic and professional purposes, I am flexible to work with people regardless backgrounds and cultures.
+🌱 A senior data scientist. I have spearheaded several projects across different disciplines of data science & machine learning to deliver data-driven insights to organizations & businesses. I am experienced at creating regression models, using descriptive and predictive data modeling to implement action-oriented solutions to business problems. Having been to 25 countries and territories for academic and professional purposes, I am flexible to work with people regardless backgrounds and cultures.
 
 At Capgemini, I have worked as: 
 - Senior Data Engineer- Meta/Facebook
